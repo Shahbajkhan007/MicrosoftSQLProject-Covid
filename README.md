@@ -1,4 +1,4 @@
-# SQL-Project-Covid deaths
+# MYSQL-Project-DataExploration-Covid deaths
 
                                                                              Comprehensive Analysis of COVID-19 Data
 In this extensive SQL project, I delved into the exploration of COVID-19 data spanning from January 28, 2020, to April 30, 2021 using the Microsoft SQL Server(SSMS). Leveraging a variety of SQL techniques, I conducted data exploration, joined tables, utilized Common Table Expressions (CTEs), and employed Temp Tables to extract valuable insights from the pandemic dataset.
